@@ -2,7 +2,6 @@
 import os
 import sys
 
-
 def main():
     print("HELLO RUNNING BACKEND")
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')

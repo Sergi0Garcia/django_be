@@ -1,1 +1,2 @@
-// python manage.py runserver 5000
+// run python env: pipenv shell
+// run server: python manage.py runserver 5000
